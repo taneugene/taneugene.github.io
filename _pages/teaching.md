@@ -22,9 +22,9 @@ nav_order: 2
 
 ##### Other Undergraduate level
 
-- Ordinary Differential Equations (Yale University)
-- Air: Atmospheric Thermodynamics (Colorado College)
-- Energy: Environmental Thermodynamics and Energetics (Colorado College)
+- Ordinary Differential Equations (Yale University 2017,2018)
+- Air: Atmospheric Thermodynamics (Colorado College 2014)
+- Energy: Environmental Thermodynamics and Energetics (Colorado College 2014)
 
 ##### Private Sector
 
