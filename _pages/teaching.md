@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-##### Graduate level at SIPA, Columbia University
+#### Graduate level at SIPA, Columbia University
 
 - Advanced Economic Development (Spring 2024): [evaluation](https://taneugene.github.io/assets/pdf/INAFU8145_001_2024_1-AdvancedEconomicDevelopment_EugeneTan.pdf)
 - Climate Change Policy and Diplomacy (Fall 2023): [evaluation](https://taneugene.github.io/assets/pdf/INAFU8537_001_2023_3-ClimateChangePolicyandDiplomacy_EugeneTan.pdf)
@@ -15,18 +15,18 @@ nav_order: 2
 - Earth Systems and Environmental Politics (Summer 2021): [evaluation](https://taneugene.github.io/assets/pdf/ENVPU6241_001_2021_2-EarthSystems&EnvironmentalPolitics_EugeneTan.pdf)
 - Empirical Analysis of Energy Markets (Fall 2020): [evaluation](https://taneugene.github.io/assets/pdf/INAFU6616_001_2020_3-EmpiricalAnalysisofEnergyMarkets_EugeneTan.pdf)
 
-##### Undergraduate level at Columbia College
+#### Undergraduate level at Columbia College
 
 - Intermediate Microeconomics (Spring 2021): [evaluation](https://taneugene.github.io/assets/pdf/ECONUN3211_002_2021_1_IntermediateMicroeconomics_EugeneTan.pdf)
 
 
-##### Other Undergraduate level
+#### Other Undergraduate level
 
 - Ordinary Differential Equations (Yale University 2017,2018)
 - Air: Atmospheric Thermodynamics (Colorado College 2014)
 - Energy: Environmental Thermodynamics and Energetics (Colorado College 2014)
 
-##### Private Sector
+#### Private Sector
 
 - Enterprise Data Science (Center for Applied Data Science)
 
