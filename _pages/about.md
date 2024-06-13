@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,7 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate in the [Sustainable Development Program at Columbia University's School of International and Public Affairs](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development). My research interests are in energy, environment, development, and network economics. My current research studies the expansion of electricity grids in Sub-Saharan Africa, and the impact of scope 3 emissions policies through international supply chains. 
+I am a PhD Candidate in the [Sustainable Development Program](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) at Columbia University's School of International and Public Affairs. My research interests are in energy, environment, development, and network economics. My current research studies the expansion of electricity grids in Sub-Saharan Africa, and the impact of policies that regulate embedded emissions through international supply chains. 
+
+This website is under construction.
+
+
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

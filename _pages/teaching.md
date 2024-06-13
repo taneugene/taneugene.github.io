@@ -1,15 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: Teaching Fellow/Assistant Roles
 description: I like teaching 
 nav: true
 nav_order: 2
 ---
 
-## Teaching Fellow/Assistant Roles
-
-### Columbia University
+## Teaching at Columbia University
 
 Graduate level 
 - Advanced Economic Development (Spring 2024) 
@@ -27,7 +25,8 @@ Undergraduate level
 - Intermediate Microeconomics (Spring 2021) 
 <!-- - [eval](https://taneugene.github.io/assets/pdf/ECONUN3211_002_2021_1_IntermediateMicroeconomics_EugeneTan.pdf) -->
 
-## Pre-Doctoral Roles
+
+## Pre-Doctoral Teaching
 
 Undergraduate level
 - Ordinary Differential Equations (Yale University)
