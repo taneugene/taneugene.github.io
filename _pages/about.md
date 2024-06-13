@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Candidate  \n
-    Columbia SIPA  \n
+    <p>PhD Candidate <br>
+    Columbia SIPA  <br>
     Energy, Networks, Development</p>
 
 news: false # includes a list of news items
