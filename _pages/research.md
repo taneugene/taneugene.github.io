@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 description: research projects and papers
-nav: trye
+nav: true
 nav_order: 2
 ---
 
