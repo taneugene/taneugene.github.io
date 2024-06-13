@@ -1,15 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching Fellow/Assistant Roles
+title: Teaching 
 description: I like teaching 
 nav: true
 nav_order: 2
 ---
 
-## Teaching at Columbia University
+## Columbia University
 
-Graduate level 
+Graduate level at SIPA
 - Advanced Economic Development (Spring 2024) 
 <!-- - [eval](https://taneugene.github.io/assets/pdf/INAFU8145_001_2024_1-AdvancedEconomicDevelopment_EugeneTan.pdf) -->
 - Climate Change Policy and Diplomacy (Fall 2023) 

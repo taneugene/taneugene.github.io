@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Candidate</p>
-    <p>Columbia SIPA</p>
-    <p>Energy, Networks, Development</p>
+    <p>PhD Candidate
+    Columbia SIPA
+    Energy, Networks, Development</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -21,7 +21,6 @@ social: false # includes social icons at the bottom of the page
 I am a PhD Candidate in the [Sustainable Development Program](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) at Columbia University's School of International and Public Affairs. My research interests are in energy, environment, development, and network economics. My current research studies the expansion of electricity grids in Sub-Saharan Africa, and the impact of policies that regulate embedded emissions through international supply chains. 
 
 Email: eugene.tan@columbia.edu
-
 
 This website is under construction.
 
