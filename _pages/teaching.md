@@ -22,7 +22,8 @@ nav_order: 2
 
 #### Undergraduate level at Columbia College
 
-- Intermediate Microeconomics (Spring 2021): [evaluation](https://taneugene.github.io/assets/pdf/ECONUN3211_002_2021_1_IntermediateMicroeconomics_EugeneTan.pdf)
+- Intermediate Microeconomics (Spring 2021)
+<!-- : [evaluation](https://taneugene.github.io/assets/pdf/ECONUN3211_002_2021_1_IntermediateMicroeconomics_EugeneTan.pdf) -->
 
 
 #### Other Undergraduate level
