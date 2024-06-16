@@ -9,11 +9,16 @@ nav_order: 2
 
 #### Graduate level at SIPA, Columbia University
 
-- Advanced Economic Development (Spring 2024): [evaluation](https://taneugene.github.io/assets/pdf/INAFU8145_001_2024_1-AdvancedEconomicDevelopment_EugeneTan.pdf)
-- Climate Change Policy and Diplomacy (Fall 2023): [evaluation](https://taneugene.github.io/assets/pdf/INAFU8537_001_2023_3-ClimateChangePolicyandDiplomacy_EugeneTan.pdf)
-- Economics of Energy (Spring 2022, 2023): [teaching award](https://taneugene.github.io/assets/pdf/teaching_award.pdf), [evaluation](https://taneugene.github.io/assets/pdf/INAFU6065_001_2023_1-TheEconomicsofEnergy_EugeneTan.pdf)
-- Earth Systems and Environmental Politics (Summer 2021): [evaluation](https://taneugene.github.io/assets/pdf/ENVPU6241_001_2021_2-EarthSystems&EnvironmentalPolitics_EugeneTan.pdf)
-- Empirical Analysis of Energy Markets (Fall 2020): [evaluation](https://taneugene.github.io/assets/pdf/INAFU6616_001_2020_3-EmpiricalAnalysisofEnergyMarkets_EugeneTan.pdf)
+- Advanced Economic Development (Spring 2024)
+<!-- : [evaluation](https://taneugene.github.io/assets/pdf/INAFU8145_001_2024_1-AdvancedEconomicDevelopment_EugeneTan.pdf) -->
+- Climate Change Policy and Diplomacy (Fall 2023)
+<!-- : [evaluation](https://taneugene.github.io/assets/pdf/INAFU8537_001_2023_3-ClimateChangePolicyandDiplomacy_EugeneTan.pdf) -->
+- Economics of Energy (Spring 2022, 2023)
+<!-- : [teaching award](https://taneugene.github.io/assets/pdf/teaching_award.pdf), [evaluation](https://taneugene.github.io/assets/pdf/INAFU6065_001_2023_1-TheEconomicsofEnergy_EugeneTan.pdf) -->
+- Earth Systems and Environmental Politics (Summer 2021)
+<!-- : [evaluation](https://taneugene.github.io/assets/pdf/ENVPU6241_001_2021_2-EarthSystems&EnvironmentalPolitics_EugeneTan.pdf) -->
+- Empirical Analysis of Energy Markets (Fall 2020)
+<!-- : [evaluation](https://taneugene.github.io/assets/pdf/INAFU6616_001_2020_3-EmpiricalAnalysisofEnergyMarkets_EugeneTan.pdf) -->
 
 #### Undergraduate level at Columbia College
 
@@ -22,7 +27,7 @@ nav_order: 2
 
 #### Other Undergraduate level
 
-- Ordinary Differential Equations (Yale University 2017,2018)
+- Ordinary Differential Equations (Yale University 2017, 2018)
 - Air: Atmospheric Thermodynamics (Colorado College 2014)
 - Energy: Environmental Thermodynamics and Energetics (Colorado College 2014)
 
