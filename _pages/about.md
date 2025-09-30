@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Eugene Tan</p>
     <p>475 Riverside Drive</p><br>
     <p>Columbia University</p<br>
     <p>Room 520</p>

@@ -27,7 +27,7 @@ nav_order: 6
 
 #### Teaching elsewhere
 
-- Ordinary Differential Equations (Yale University 2017, 2018)
-- Air: Atmospheric Physics and Chemistry (Colorado College 2014)
-- Energy: Environmental Thermodynamics and Energetics (Colorado College 2014)
-- Enterprise Data Science (Center for Applied Data Science/The Data Incubator 2016/2017)
+- Ordinary Differential Equations (Teaching Fellow at Yale University, 2017, 2018)
+- Enterprise Data Science (Lead Instructor for Applied Data Science/The Data Incubator 2016/2017)
+- Air: Atmospheric Physics and Chemistry (Teaching Assistant at Colorado College 2014)
+- Energy: Environmental Thermodynamics and Energetics (Teaching Assistant at Colorado College 2014)
