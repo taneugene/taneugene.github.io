@@ -26,9 +26,8 @@ nav_order: 6
   - [Fall 2021 evaluations](../assets/pdf/INAFU6616_001_2020_3-EmpiricalAnalysisofEnergyMarkets_EugeneTan.pdf)
 
 #### Teaching elsewhere
+
 - Ordinary Differential Equations (Yale University 2017, 2018)
 - Air: Atmospheric Physics and Chemistry (Colorado College 2014)
 - Energy: Environmental Thermodynamics and Energetics (Colorado College 2014)
 - Enterprise Data Science (Center for Applied Data Science/The Data Incubator 2016/2017)
-
-
