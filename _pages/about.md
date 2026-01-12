@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Eugene Tan</p>
+    <p>Eugene PH Tan</p>
     <p>475 Riverside Drive</p><br>
     <p>Columbia University</p<br>
     <p>Room 520</p>
@@ -33,7 +33,7 @@ latest_posts:
 
 Hello! I am an applied microeconomist studying energy, technology, and firms, mostly in developing countries.
 
-My [research](https://taneugene.github.io/research/) uses industrial organization, spatial, and networks tools. I am interested in understanding consumer and firm behavior and designing public policies that take them into account.
+My [research](https://taneugene.github.io/research/) uses industrial organization, spatial, and network tools. I am interested in understanding consumer and firm behavior and designing public policies that take them into account.
 My current research studies policies for electricity access in Sub-Saharan Africa, the impact of carbon taxes through supply chains and on fossil fuel producers, and methods to estimate the internal production network of a firm.
 
 I am a PhD candidate in the [Sustainable Development Program](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) at Columbia University’s [School of International & Public Affairs](https://www.sipa.columbia.edu/) and [the Earth Institute](https://earth.columbia.edu/). I previously did an MeSc from the [Yale School of the Environment](https://environment.yale.edu/), worked as a Data Scientist at the [World Bank](https://www.gfdrr.org/en) and at an education startup, and did a [Junior Fellowship](https://carnegieendowment.org/james-c-gaither-junior-fellows-program) at the [Carnegie Endowment for International Peace](https://carnegieendowment.org/?lang=en).
