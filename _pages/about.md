@@ -31,10 +31,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am an applied microeconomist interested in energy and climate, technology and firms, and economic development and growth.
+Hello! I am an applied microeconomist interested in energy and climate, technology and firms, and economic development.
 
 My [research](https://taneugene.github.io/research/) uses industrial organization, network, and spatial/trade tools.
-My current research studies policies for electricity access in Sub-Saharan Africa, the impact of carbon taxes through supply chains and on fossil fuel producers, and methods to estimate the internal production network of a firm.
+My current research studies the impact of CBAM on developing countries, electricity access in Sub-Saharan Africa, and methods to estimate the internal production network of a firm.
 I am interested in helping governments and regulators design markets and policies based on an understanding of consumer and firm behavior.
 
 I am a PhD candidate in the [Sustainable Development Program](https://www.sipa.columbia.edu/sipa-education/phd-sustainable-development) at Columbia University’s [School of International & Public Affairs](https://www.sipa.columbia.edu/) and [the Earth Institute](https://earth.columbia.edu/). I previously did an MeSc from the [Yale School of the Environment](https://environment.yale.edu/), worked as a Data Scientist at the [World Bank](https://www.gfdrr.org/en) and at an education startup, and started my career as a [Junior Fellow](https://carnegieendowment.org/james-c-gaither-junior-fellows-program) at the [Carnegie Endowment for International Peace](https://carnegieendowment.org/?lang=en).
