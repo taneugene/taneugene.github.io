@@ -33,7 +33,7 @@ latest_posts:
 
 Hello! I am an applied microeconomist interested in energy and climate, technology and firms, and economic development.
 
-My [research](https://taneugene.github.io/research/) uses industrial organization, network, and spatial/trade tools.
+My [research](https://taneugene.github.io/research/) uses network, industrial organization, and spatial/trade tools.
 My current research studies the impact of CBAM on developing countries, electricity access in Sub-Saharan Africa, and methods to estimate the internal production network of a firm.
 I am interested in helping governments and regulators design markets and policies based on an understanding of consumer and firm behavior.
 
