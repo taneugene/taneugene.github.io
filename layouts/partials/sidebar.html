@@ -1,0 +1,9 @@
+<p class="contactinfo"><a href="{{ "#bio" | relURL }}">About</a></p>
+{{ if .Site.Data.job_market_paper }}
+<p class="contactinfo"><a href="{{ "#jmp" | relURL }}">Research</a></p>
+{{ else if .Site.Data.work_in_progress }}
+<p class="contactinfo"><a href="{{ "#workinprogress" | relURL }}">Research</a></p>
+{{ end }}
+{{ with .GetPage "/sections/teaching.md" }}
+<p class="lastcontactinfo"><a href="{{ "#teaching" | relURL }}">Teaching</a></p>
+{{ end }}

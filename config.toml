@@ -1,0 +1,10 @@
+relativeURLs = true
+title = "Eugene Tan"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+
+[params]
+    shortbio = "Postdoctoral Scholar, University of Calgary"
+    logo = "prof_pic.jpg"
+
