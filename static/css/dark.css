@@ -1,0 +1,103 @@
+/* Dark mode, palette matching the old al-folio site (taneugene.github_old). */
+
+html[data-theme="dark"] {
+  color-scheme: dark; }
+
+html[data-theme="dark"] body {
+  background-color: #1c1c1d;
+  color: #e8e8e8; }
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6,
+html[data-theme="dark"] strong,
+html[data-theme="dark"] dt,
+html[data-theme="dark"] th {
+  color: #e8e8e8; }
+
+html[data-theme="dark"] a {
+  color: #2698ba; }
+
+html[data-theme="dark"] a:hover,
+html[data-theme="dark"] a:focus {
+  color: #6cc3dd; }
+
+html[data-theme="dark"] a small,
+html[data-theme="dark"] a:hover small {
+  color: #828282; }
+
+html[data-theme="dark"] hr {
+  background: #424246; }
+
+html[data-theme="dark"] blockquote {
+  border-left-color: #424246; }
+
+html[data-theme="dark"] th,
+html[data-theme="dark"] td {
+  border-bottom-color: #424246; }
+
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre {
+  color: #e8e8e8; }
+
+html[data-theme="dark"] pre,
+html[data-theme="dark"] .highlight {
+  background: #2c3237;
+  border-color: #424246; }
+
+html[data-theme="dark"] header ul {
+  background: #212529;
+  border-color: #424246; }
+
+html[data-theme="dark"] header li {
+  border-right-color: #424246; }
+
+html[data-theme="dark"] header ul a {
+  color: #828282; }
+
+html[data-theme="dark"] header ul a:active {
+  background-color: #2c3237; }
+
+@media print, screen and (max-width: 1160px) {
+  html[data-theme="dark"] section {
+    border-color: #424246; } }
+
+/* Theme toggle: cycles system -> light -> dark, like the old site. */
+
+#light-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 10;
+  padding: 6px;
+  border: 0;
+  background: none;
+  color: #727272;
+  cursor: pointer;
+  line-height: 0; }
+
+#light-toggle:hover {
+  color: #222; }
+
+html[data-theme="dark"] #light-toggle {
+  color: #828282; }
+
+html[data-theme="dark"] #light-toggle:hover {
+  color: #e8e8e8; }
+
+#light-toggle svg {
+  display: none;
+  width: 20px;
+  height: 20px; }
+
+html[data-theme-setting="system"] #light-toggle-system,
+html[data-theme-setting="light"] #light-toggle-light,
+html[data-theme-setting="dark"] #light-toggle-dark {
+  display: block; }
+
+@media print {
+  #light-toggle {
+    display: none; } }
