@@ -4,6 +4,9 @@ theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 
+[services.googleAnalytics]
+    id = "G-LJ1ML479MC"
+
 [params]
     shortbio = "Postdoctoral Scholar, University of Calgary"
     logo = "prof_pic.jpg"
