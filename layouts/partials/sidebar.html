@@ -5,5 +5,8 @@
 <p class="contactinfo"><a href="{{ "#workinprogress" | relURL }}">Research</a></p>
 {{ end }}
 {{ with .GetPage "/sections/teaching.md" }}
-<p class="lastcontactinfo"><a href="{{ "#teaching" | relURL }}">Teaching</a></p>
+<p class="contactinfo"><a href="{{ "#teaching" | relURL }}">Teaching</a></p>
+{{ end }}
+{{ with .GetPage "/sections/misc.md" }}
+<p class="lastcontactinfo"><a href="{{ "#misc" | relURL }}">Miscellaneous</a></p>
 {{ end }}
