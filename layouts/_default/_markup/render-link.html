@@ -1,0 +1,7 @@
+{{- /* PDFs open in a new tab, like the JMP link, so GA can record file_download before the page is replaced. */ -}}
+<a href="{{ .Destination | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end }}
+  {{- if strings.HasSuffix (lower .Destination) ".pdf" }} target="_blank" rel="noopener"{{ end }}>
+  {{- .Text | safeHTML -}}
+</a>
+{{- /* chomp trailing newline */ -}}
