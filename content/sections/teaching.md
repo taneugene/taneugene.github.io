@@ -2,7 +2,7 @@ __As Acting Instructor, Columbia SIPA__
 Economics of Energy (Extraordinary Teaching Award)
 
 __As Teaching Assistant, Columbia SIPA__  
-Climate Change Politics and Diplomacy (3x)  
+Climate Change Policy and Diplomacy (3x)  
 Advanced Economic Development  
 Earth Systems and Environmental Politics  
 Intermediate Microeconomics  
